@@ -1,6 +1,6 @@
 package platform;
 
-
+//Тестовый коммит
 public class Debug {
 	static String DS = "";
 	public static boolean STOP_ON_ERROR_FLAG = false;
